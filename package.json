@@ -1,0 +1,24 @@
+{
+	"name": "web-client-info",
+	"version": "1.0.0",
+	"description": "",
+	"main": "web-client-info.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jianggle/webClientInfo.git"
+	},
+	"keywords": [
+		"webClientInfo",
+		"browserInfo",
+		"clientInfo"
+	],
+	"author": "jianggle",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jianggle/webClientInfo/issues"
+	},
+	"homepage": "https://github.com/jianggle/webClientInfo#readme"
+}
